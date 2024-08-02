@@ -25,7 +25,7 @@ Next AI Form Builder is an AI-powered application that helps users create forms 
 - **Next.js**: The main framework for building the application.
 - **Clerk**: For user authentication and management.
 - **TailwindCSS**: For styling and design.
-- **ShadCN UI**: For additional UI components.
+- **ShadcnUI**: For additional UI components.
 - **DaisyUI**: For pre-designed UI components.
 - **Google Gemini API**: To generate forms based on user prompts.
 - **Drizzle ORM**: For database operations.
