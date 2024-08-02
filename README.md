@@ -26,7 +26,7 @@ Next AI Form Builder is an AI-powered application that helps users create forms 
 - **Clerk**: For user authentication and management.
 - **TailwindCSS**: For styling and design.
 - **ShadcnUI**: For additional UI components.
-- **DaisyUI**: For changing the theme of the forms.
+- **DaisyUI**: For changing the theme of the form.
 - **Google Gemini API**: To generate forms based on user prompts.
 - **Drizzle ORM**: For database operations.
 - **Neon Database**: A modern cloud-based PostgreSQL database.
