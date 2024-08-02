@@ -33,7 +33,7 @@ Next AI Form Builder is an AI-powered application that helps users create forms 
 - **React-Web-Share**: For sharing forms.
 - **xlsx**: To export form responses in Excel format.
 
-## Live preview of the application
+## Live Preview of the Application
 
 https://next-ai-form-builder.vercel.app/
 
