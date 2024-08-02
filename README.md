@@ -10,17 +10,17 @@ Next AI Form Builder is an AI-powered application that helps users create forms 
 
 ## Features of the Application
 
-- AI-generated forms based on user prompts using Google Gemini API
-- Edit any field of the generated form
-- Delete any field
-- Change theme color and background color
-- Live preview of the form
-- Share the form
-- View the number of responses each form has received
-- Export received information in Excel format
-- Edit, delete, and share forms from the dashboard
+- AI-generated forms based on user prompts using Google Gemini API.
+- Edit any field of the generated form.
+- Delete any field.
+- Change theme color and background color.
+- Live preview of the form.
+- Share the form.
+- View the number of responses each form has received.
+- Export received information in Excel format.
+- Edit, delete, and share forms from the dashboard.
 
-## Technologies Used in This Application
+## Technologies Used in this Application
 
 - **Next.js**: The main framework for building the application.
 - **Clerk**: For user authentication and management.
