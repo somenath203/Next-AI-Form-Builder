@@ -58,7 +58,9 @@ const FormList = () => {
         
       </div>
 
-    </div> : <div className="mt-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+    </div> : listOfForms?.length === 0 ? <div className="flex items-center justify-center mt-24 text-center">
+              <p className="text-xl lg:text-2xl text-primary tracking-wider">No Records Found</p>
+            </div> : <div className="mt-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
         {listOfForms && listOfForms?.map((form, index) => (
             <div key={index}>
 
